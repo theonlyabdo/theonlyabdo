@@ -17,7 +17,7 @@ I build backend systems that need to survive real usage, event-driven architectu
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,ts,react,kafka,postgres,redis,docker,kubernetes,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,ts,react,tailwindcss,kafka,postgres,redis,docker,kubernetes,java)](https://skillicons.dev)
 
 </div>
 
