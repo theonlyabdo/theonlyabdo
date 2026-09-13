@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Backend-Focused+%7C+Go+%2B+Python;Building+CyberCompanion;Learning+in+public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Backend-Focused+%7C+Go+%2B+Python;Building+CyberCompanion;Learning+in+public" alt="Typing SVG" />
 
 </div>
 
@@ -33,13 +33,12 @@ I build backend systems that need to survive real usage, event-driven architectu
 
 <div align="center">
 
-<!--img height="165" src="https://github-readme-stats.vercel.app/api?username=theonlyabdo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img  src="https://github-stats-extended.vercel.app/api?username=theonlyabdo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyabdo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /-->
+<img src="https://streak-stats.demolab.com/?user=theonlyabdo&theme=tokyonight&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://streak-stats.demolab.com/?user=theonlyabdo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!--img  src="https://github-stats-extended.vercel.app/api/top-langs/?username=theonlyabdo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /-->
 
-<!--img src="https://github-profile-trophy.vercel.app/?username=theonlyabdo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" /-->
 
 </div>
 
