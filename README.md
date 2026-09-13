@@ -37,7 +37,7 @@ I build backend systems that need to survive real usage, event-driven architectu
 
 <img src="https://streak-stats.demolab.com/?user=theonlyabdo&theme=tokyonight&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
-<!--img  src="https://github-stats-extended.vercel.app/api/top-langs/?username=theonlyabdo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /-->
+<img  src="https://github-stats-extended.vercel.app/api/top-langs/?username=theonlyabdo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 
 </div>
